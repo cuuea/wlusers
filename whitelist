@@ -1,0 +1,4 @@
+WhitelistedUsers = {
+    [4091151680] = true
+}
+return WhitelistedUsers
